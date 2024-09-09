@@ -29,7 +29,7 @@ export default function Home() {
           property="fc:frame:button:1:target"
           content="https://docs.linea.build/"
         />
-        <meta property="fc:frame:button:2" content="Bridge your fundsï¼Ÿí ½íº€" />
+        <meta property="fc:frame:button:2" content="Bridge your funds" />
         <meta property="fc:frame:button:2:action" content="link" />
         <meta
           property="fc:frame:button:2:target"
